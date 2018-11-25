@@ -3,9 +3,11 @@ This repository contains the results of homework no.3 related to the course "Alg
 
 Group members:
  
- - Mahsa Hadikhanloo
+ - Giorgio Zannini Quirini 
  - Samin Hamidi
- - Giorgio Zannini Quirini
+ - Mahsa Hadikhanloo
+
+ 
  
  
  The repository contains:
