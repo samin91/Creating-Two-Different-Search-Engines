@@ -11,4 +11,4 @@ This repository contains the results of homework no.3 of the course "Algorithmic
 - __inverted_index.txt, inverted_index_tfidf.txt, vocabulary.txt, documentlist.txt:__ the saved files generated in the analysis.
 - __map.html:__ the visualization of a user's query.  To easily open the html file, click [here](https://giorgiozannini.github.io/map.html)
 
-Datasset used: 
+Data-set used: Airbnb_Texas_Rentals.csv
