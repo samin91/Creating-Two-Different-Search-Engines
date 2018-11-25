@@ -7,8 +7,7 @@ This repository contains the results of homework no.3 of the course "Algorithmic
  
  The files contain:
 
-- __Homework_3.pynb:__ the full script of the homework.
+- __Homework_3.ipynb:__ the full script of the homework.
 - __inverted_index.txt, inverted_index_tfidf.txt, vocabulary.txt, documentlist.txt:__ the saved files generated in the analysis.
 - __map.html:__ the visualization of a user's query.
-
 
