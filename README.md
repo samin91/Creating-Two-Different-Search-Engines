@@ -1,5 +1,7 @@
 # ADM-HM3 - Find the perfect place to stay in Texas! 
-This repository contains the results of homework no.3 of the course "Algorithmic Methods for Data Mining". The group who worked at this project is composed by:
+This repository contains the results of homework no.3 related to the course "Algorithmic Methods for Data Mining". 
+
+Group members:
  
  - Mahsa Hadikhanloo
  - Samin Hamidi
